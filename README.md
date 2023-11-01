@@ -44,4 +44,4 @@ Explore and Modify: Feel free to explore the code, modify it, or experiment with
 File Description
 ADS_phase5: The word document that contains the code for loading, preprocessing, and modeling the stock price data.
 
-MSFT.csv: The dataset file (Microsoft Lifetime Stocks Dataset) used for analysis. Downloaded from Kaggle using the link [Link Text](https://www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset).
+MSFT.csv: The dataset file (Microsoft Lifetime Stocks Dataset) used for analysis. Downloaded from Kaggle using the following link (https://www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset).
